@@ -1,13 +1,13 @@
 {
-    "display_name": "",
-    "command": "",
+    "display_name": "Basic data science template (cookiecutter based)",
+    "command": "init",
     "dependencies": [],
 
-    "keywords": [],
+    "keywords": ["data science", "data", "science", "cookiecutter"],
     "methodology": [],
     "topic": [],
 
-    "description": "",
-    "author": "",
-    "author_email": ""
+    "description": "A basic template for data science projects based on the Cookiecutter pattern https://drivendata.github.io/cookiecutter-data-science/",
+    "author": "Vittor Faria Pereira and Daniel Wang",
+    "author_email": "daniel.wang@oliverwyman.com"
 }
