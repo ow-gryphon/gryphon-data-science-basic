@@ -1,0 +1,11 @@
+scratch/
+.idea/**
+.venv/**
+**/.ipynb_checkpoints/**
+.venv/
+envs/
+.idea/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+**/__pycache__/
