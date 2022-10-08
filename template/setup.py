@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
     name='src',
     packages=find_packages(),
-    version='0.1.0',
+    version='0.1.1',
     description=long_description,
     author='',
     license='',
